@@ -7,7 +7,7 @@
 <p align="center">
   Computer Science @ UFBA · Machine Learning & Computer Vision<br>
   Desenvolvimento de sistemas inteligentes com foco em visão computacional (YOLO, CNNs) e backend<br>
-  Aberto a oportunidades em ML Engineer / Backend · <a href="mailto:barretogabriel972@gmail.com">barretogabriel972@gmail.com.com</a>
+  Aberto a oportunidades em ML Engineer / Backend · <a href="mailto:barretogabriel972@gmail.com">barretogabriel972@gmail.com</a>
 </p>
 
 ---
