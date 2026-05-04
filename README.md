@@ -7,7 +7,7 @@
 <p align="center">
   Computer Science @ UFBA · Machine Learning & Computer Vision<br>
   Desenvolvimento de sistemas inteligentes com foco em visão computacional (YOLO, CNNs) e backend<br>
-  Aberto a oportunidades em ML Engineer / Backend · <a href="mailto:email@exemplo.com">email@exemplo.com</a>
+  Aberto a oportunidades em ML Engineer / Backend · <a href="mailto:barretogabriel972@gmail.com">barretogabriel972@gmail.com</a>
 </p>
 
 ---
@@ -47,21 +47,7 @@
 
 ## Projetos em destaque
 
-- [**nome-do-projeto-1**](https://github.com/g-barreto00/projeto1) — descrição breve do projeto
-- [**nome-do-projeto-2**](https://github.com/g-barreto00/projeto2) — descrição breve do projeto
-
----
-
-## Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4A6FA5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USERNAME)
-[![Email](https://img.shields.io/badge/Email-4A6FA5?style=flat-square&logo=gmail&logoColor=white)](mailto:email@exemplo.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=g-barreto00&color=4A6FA5&style=flat-square&label=visitas" />
-</p>
+- [**Site-PSB**](https://github.com/g-barreto00/Site-PSB) — site de apoio à disciplina de Programação de Software Básico, com materiais, exemplos e conteúdos sobre baixo nível e arquitetura de computadores
 - [**Sistema Distribuidora**](https://github.com/g-barreto00/sistema-full-barreto) — Sistema completo para gestão de uma distribuidora · clientes, pedidos, estoque e roteiros de entrega · Java + Spring Boot
 
 ---
@@ -73,3 +59,6 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=g-barreto00&color=4A6FA5&style=flat-square&label=visitas" />
+</p>
