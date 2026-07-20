@@ -26,22 +26,22 @@
 
 ## Estatísticas
 
-<p align="center">
-  <picture>
+##<p align="center">
+##  <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats-kappa-virid-25.vercel.app/api?username=g-barreto00&show_icons=true&theme=dark&hide_border=true&icon_color=7A9CC5&title_color=7A9CC5&text_color=aaa&bg_color=00000000" />
     <source media="(prefers-color-scheme: light)"
       srcset="https://github-readme-stats-kappa-virid-25.vercel.app/api?username=g-barreto00&show_icons=true&theme=default&hide_border=true&icon_color=4A6FA5&title_color=4A6FA5&text_color=555" />
     <img height="160" src="https://github-readme-stats-kappa-virid-25.vercel.app/api?username=g-barreto00&show_icons=true&theme=default&hide_border=true" />
-  </picture>
-  <picture>
+##  </picture>
+##  <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats-kappa-virid-25.vercel.app/api/top-langs/?username=g-barreto00&layout=compact&theme=dark&hide_border=true&title_color=7A9CC5&text_color=aaa&bg_color=00000000" />
     <source media="(prefers-color-scheme: light)"
       srcset="https://github-readme-stats-kappa-virid-25.vercel.app/api/top-langs/?username=g-barreto00&layout=compact&theme=default&hide_border=true&title_color=4A6FA5&text_color=555" />
     <img height="160" src="https://github-readme-stats-kappa-virid-25.vercel.app/api/top-langs/?username=g-barreto00&layout=compact&theme=default&hide_border=true" />
-  </picture>
-</p>
+##  </picture>
+##</p>
 
 ---
 
