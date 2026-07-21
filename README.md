@@ -49,6 +49,8 @@
 
 - [**Site-PSB**](https://github.com/g-barreto00/Site-PSB) — site de apoio à disciplina de Programação de Software Básico, com materiais, exemplos e conteúdos sobre baixo nível e arquitetura de computadores
 - [**Sistema Distribuidora**](https://github.com/g-barreto00/sistema-full-barreto) — Sistema completo para gestão de uma distribuidora · clientes, pedidos, estoque e roteiros de entrega · Java + Spring Boot
+- [**Modelo de Classificação de Desastres Urbanos**]() — Classificador de notícias sobre desastres climáticos com identificação de localidades e geração de índices de risco por região · Python + NLP + TF-IDF + Naive Bayes
+---
 
 ---
 
